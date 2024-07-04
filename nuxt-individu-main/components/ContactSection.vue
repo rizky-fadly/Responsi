@@ -1,7 +1,7 @@
 <template>
   <section class="contact">
     <h2>Contact Me</h2>
-    <p>Email: your-email@example.com</p>
+    <p>Email: rizkyfadly110@gmail.com</p>
   </section>
 </template>
 
@@ -14,5 +14,6 @@ export default {
 <style scoped>
 .contact {
   padding: 50px 0;
+  text-align: center;
 }
 </style>
