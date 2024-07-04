@@ -1,7 +1,7 @@
 <template>
   <section class="about">
-    <h2>About Me</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <h2>Responsi Pemrograman Web</h2>
+    <p>Rizky Fadly Pramudya Wardana </p>
   </section>
 </template>
 
@@ -14,5 +14,6 @@ export default {
 <style scoped>
 .about {
   padding: 50px 0;
+  text-align: center;
 }
 </style>
